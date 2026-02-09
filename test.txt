@@ -1,2 +1,2 @@
-this is another test file
+This is another test file
 Adding another stuff to the test.txt
